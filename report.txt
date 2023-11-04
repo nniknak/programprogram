@@ -1,0 +1,221 @@
+
+A
+Split Length:
+1021
+Original Length:
+1021
+Comparison:
+0
+
+B
+Split Length:
+952
+Original Length:
+952
+Comparison:
+0
+
+C
+Split Length:
+1964
+Original Length:
+1964
+Comparison:
+0
+
+D
+Split Length:
+310
+Original Length:
+310
+Comparison:
+0
+
+E
+Split Length:
+595
+Original Length:
+595
+Comparison:
+0
+
+F
+Split Length:
+274
+Original Length:
+274
+Comparison:
+0
+
+G
+Split Length:
+2090
+Original Length:
+2090
+Comparison:
+0
+
+H
+Split Length:
+1253
+Original Length:
+1253
+Comparison:
+0
+
+I
+Split Length:
+703
+Original Length:
+703
+Comparison:
+0
+
+J
+Split Length:
+8
+Original Length:
+8
+Comparison:
+0
+
+K
+Split Length:
+36
+Original Length:
+36
+Comparison:
+0
+
+L
+Split Length:
+340
+Original Length:
+340
+Comparison:
+0
+
+M
+Split Length:
+1672
+Original Length:
+1673
+Comparison:
+1
+            count_x  count_y  Difference
+Play title                              
+Bob             NaN        1         NaN
+-----------------------
+
+N
+Split Length:
+891
+Original Length:
+891
+Comparison:
+0
+
+O
+Split Length:
+479
+Original Length:
+479
+Comparison:
+0
+
+P
+Split Length:
+1079
+Original Length:
+1080
+Comparison:
+1
+                          count_x  count_y  Difference
+Play title                                            
+Gentlemen prefer blondes        3        4          -1
+-----------------------
+
+Q
+Split Length:
+14
+Original Length:
+14
+Comparison:
+0
+
+R
+Split Length:
+872
+Original Length:
+872
+Comparison:
+0
+
+S
+Split Length:
+2078
+Original Length:
+2079
+Comparison:
+1
+Empty DataFrame
+Columns: [count_x, count_y, Difference]
+Index: []
+-----------------------
+
+T
+Split Length:
+361
+Original Length:
+361
+Comparison:
+0
+
+U
+Split Length:
+322
+Original Length:
+322
+Comparison:
+0
+
+V
+Split Length:
+234
+Original Length:
+234
+Comparison:
+0
+
+W
+Split Length:
+277
+Original Length:
+277
+Comparison:
+0
+
+X
+Split Length:
+1
+Original Length:
+1
+Comparison:
+0
+
+Y
+Split Length:
+2
+Original Length:
+2
+Comparison:
+0
+
+Z
+Split Length:
+21
+Original Length:
+21
+Comparison:
+0
+SUMMARY of Matching Letters: 23/26 Missing Letters: M, P, S
